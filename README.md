@@ -1,1 +1,1 @@
-# sql-alchemy-challenge
+# sqlalchemy-challenge
